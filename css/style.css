@@ -1,0 +1,155 @@
+
+    /* General styles */
+    body {
+    font-family: 'Roboto', sans-serif;
+   
+    }
+    ul{
+    list-style: none;
+    }
+    .link {
+    
+    }
+    .page{
+
+    }
+    .page-header{
+
+    }
+    /* Logo  */
+    .logo{
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        letter-spacing: 0.03em;
+        color: #2196F3;
+        }
+        .logo-style{
+            color: #000000;
+    }
+    .logo-futer{
+ 
+    }
+    /* Website nav */
+    .nav {
+        position: absolute;
+        width: 281px;
+        height: 16px;
+        left: 453px;
+        top: 32px;
+    }
+    .nav .link:hover,
+    .nav .link:focus {
+      
+    }
+    .contacts-nav .link{    
+    color: 
+    /* hero section */
+    .hero{
+
+    }
+    .hero-title {
+    
+    }
+    /* Button */
+    .button {
+    font-size: 16px;
+    text-decoration: none;
+    }
+    .button.primary {
+   
+    }
+    .button.secondary {
+   
+    }
+    .button.secondary:hover,
+    .button.secondary:focus {
+    
+    }
+    /* Uppercase titles */
+    .uptitle {
+    font-size: inherit;
+    font-weight: 700;
+    text-transform: uppercase;
+    }
+    /* features */
+    .uptitle.features-title {
+     
+    }
+    .features-text {
+    line-height: 1.71;
+    
+    }
+    /* General section title*/
+    .section-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+   
+    }
+    /* Work section */
+    .uptitle.work-title {
+    
+    }
+    /* Team section */
+    .team {
+    font-size: 16px;
+    line-height: 1.19;
+    }
+    .team .team-members-name {
+    font-size: inherit;
+    font-weight: 500;
+    
+    }
+    .team .team-members-position {
+    
+    }
+    /* Clients section */
+   
+    
+    /* address */
+    .address .link{
+    font-style: normal;
+    line-height: 1.71;
+   
+    }
+    .address .link.address-location {
+    
+    }
+    /* Subscription */
+    .uptitle.signup-title {
+    
+    }
+    .site-devs {
+    
+   
+    }
+    /* Portfolio page */
+    .site-nav .link.current {
+       
+    }
+    .portfolio-sample {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 36px;
+        letter-spacing: 0.06em;
+        color: #212121;
+    }
+    .portfolio-info {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        letter-spacing: 0.03em;
+        color: #757575;;
+    }
+     /* Footer */
+     .page-footer {
+        background: #2F303A
+    }
